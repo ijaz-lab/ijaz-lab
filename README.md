@@ -4,7 +4,7 @@
 **ijaz-lab/ijaz-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Hey 👋, It's Ijaz Ali!, Nice to see you.
+## Hey 👋, It's Ijaz Ali!, Nice to see you.
 Connect with me at
 Linkedin Badge Twitter Badge Github Badge Kaggle Badge Medium Badge Gmail Badge
 
@@ -28,7 +28,7 @@ T-SQL,SSIS,SSRS,SSAS,Azure Cloud, Power BI .
 👾   Fun fact: I am only Social on Social Media.
 📫   How to reach me: ijaza0489@gmail.com
 Programming Languages I mostly work in:
-python ,SQL 
+python , SQL 
 
 Some Github Stats:
 ⚡Github Stats
