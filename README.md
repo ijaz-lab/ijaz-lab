@@ -13,7 +13,7 @@ Glad to see you here!
 Core Courses covered during my studies:
 Studying most of Core Courses like "Design and Analysis of Algorithms", "Artificial Intelligence", "Programming for Artificial Intelligence", "Machine Learning", "Knowledge Rep. and Reasoning", "Fundamentals of Natural Language Processing", "Artificial Neural Networks", "Computer Vision", "Cloud Security", "Information Security", "DevOps", and "Entrepreneurship".
 
-Professional Career:
+####Professional Career:
 I am a data professional who designs, builds, and maintains the systems and infrastructure that enable organizations to store, process, and analyze large volumes of data. 
 I have used programming languages like T-SQL, Python to write code that automates data workflows, transforms data into formats that are usable for downstream applications, and builds scalable, efficient, and reliable data pipelines and data storage solutions.
 I have strong problem-solving, analytical, and communication skills and work closely with Data Scientists, Data Analysts, and other stakeholders to understand their data needs and design systems that meet those needs while ensuring data quality, security, and privacy.
