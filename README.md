@@ -41,7 +41,7 @@ Some Github Stats:
 
 
  Languages I Speak
- English ★★★★☆
+ English ★★★★★
  Urdu ★★★★★
  
 Trying to be the best version of myself
