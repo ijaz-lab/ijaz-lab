@@ -21,7 +21,7 @@ I have strong problem-solving, analytical, and communication skills and work clo
 
 #### Some Tools and Technologies I am working on:
 🛠   I’m currently working with scikit-learn, TensorFlow, PyTorch, Flask, FastAPI, Django, 
-T-SQL,SSIS,SSRS,SSAS,Azure Cloud, Power BI .
+T-SQL,SSIS,SSRS,SSAS,Azure Cloud,Databricks, Azure Data Factory, Azure Synapse, Fabric, PostgreSQL, Oracle, R studio, PySpark, Python and Power BI .
 🚀   I’m currently learning Full Stack Development while working on my Final year Project.
 👨🏻‍💻   Most of my projects are available on Github and Kaggle.
 💬   You can text me on Linkedin, or by Email to ask about anything. I'll be happy to help.(https://www.linkedin.com/in/ijaz-ali-6aaa87122/)
@@ -42,6 +42,6 @@ Some Github Stats:
 
  Languages I Speak
  English ★★★★★
- Urdu ★★★★★
+
  
 Trying to be the best version of myself
