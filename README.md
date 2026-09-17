@@ -24,7 +24,6 @@ I have strong problem-solving, analytical, and communication skills and work clo
 T-SQL,SSIS,SSRS,SSAS,Azure Cloud,Databricks, Azure Data Factory, Azure Synapse, Fabric, PostgreSQL, Oracle, R studio, PySpark, Python and Power BI .
 🚀   I’m currently learning Full Stack Development while working on my Final year Project.
 👨🏻‍💻   Most of my projects are available on Github and Kaggle.
-💬   You can text me on Linkedin, or by Email to ask about anything. I'll be happy to help.(https://www.linkedin.com/in/ijaz-ali-6aaa87122/)
 👾   Fun fact: I am only Social on Social Media.
 📫   How to reach me: ijaza0489@gmail.com
 Programming Languages I mostly work in:
